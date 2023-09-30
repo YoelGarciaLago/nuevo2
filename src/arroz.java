@@ -1,4 +1,4 @@
 public class arroz {
 
-    System.out.print("arroz")
+    System.out.print("arroz y tortilla")
 }
