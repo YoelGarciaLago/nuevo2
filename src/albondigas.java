@@ -1,4 +1,4 @@
 public class albondigas {
 
-    System.out.print("albondigas xd");
+    System.out.print("albondigas xd, arroz y tortilla");
 }
